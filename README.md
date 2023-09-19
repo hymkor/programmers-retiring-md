@@ -86,7 +86,7 @@
 
 ### その他
 
-- 業務作業用のGitHub アカウントの削除、もしくは [organization化]
+- 業務作業用のGitHub アカウントの削除、もしくは [organization化] [^github2account]
 - 会社に貸与されたものの返却
     - 社員証、キー、PC端末、ヘッドセット、健康保険証
 - 事務の人からいろいろ説明してもらう  
@@ -95,5 +95,7 @@
     - 年金 (確定拠出年金)
     - 健康保険 (2年間継続方法とか)
     - 住民税 (最後の給料から天引きして支払ってもらえる場合がある)
+
+[^github2account]: GitHubの規約で、個人が二つ無償アカウントを持つことはできない。私用アカウントを別途持っている場合、業務アカウントが会社の organization から解除されると無償扱いになってしまうので、規約違反状態になってしまう。そのため、削除するか organization化 する必要がある。organization化すると、個々のレポジトリの URL が変わらず維持される
 
 [organization化]: https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/converting-a-user-into-an-organization
