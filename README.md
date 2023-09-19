@@ -93,9 +93,11 @@
     (ちゃんとした会社なら待ちでよい)
     - 退職金 (退職金の管理を委託している団体に退職金の支払いの申請が必要な場合がある)
     - 年金 (確定拠出年金)
-    - 健康保険 (2年間継続方法とか)
-    - 住民税 (最後の給料から天引きして支払ってもらえる場合がある)
+    - 健康保険 [^ninikeizoku]
+    - 住民税 (最後の給料から天引きして、先払いしてもらえる場合があり、納税の手間が省ける)
 
 [^github2account]: GitHubの規約で、個人が二つ無償アカウントを持つことはできない。私用アカウントを別途持っている場合、業務アカウントが会社の organization から解除されると無償扱いになってしまうので、規約違反状態になってしまう。そのため、削除するか organization化 する必要がある。organization化すると、個々のレポジトリの URL が変わらず維持される
 
 [organization化]: https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/converting-a-user-into-an-organization
+
+[^ninikeizoku]: すぐに就職しない場合、国民健康保険のほかの選択肢として今の健康保険を2年間延長する「任意継続」というものがある(会社負担分を自分で払うし、国民年金より安いかというと…微妙)。申し込み締切がシビア
